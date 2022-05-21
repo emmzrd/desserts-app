@@ -1,0 +1,74 @@
+{
+    "feed": [
+        {
+            "id": "1",
+            "profileImageUrl": "assets/profile_pics/person_cesare.jpeg",
+            "comment": "Made this delicious cake this morning",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "10"
+        },
+        {
+            "id": "2",
+            "profileImageUrl": "assets/profile_pics/person_stef.jpeg",
+            "comment": "Made delicious creamy, ice cream",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "20"
+        },
+        {
+            "id": "3",
+            "profileImageUrl": "assets/profile_pics/person_crispy.png",
+            "comment": "Made a delicious fruit salad today!",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "30"
+        },
+        {
+            "id": "4",
+            "profileImageUrl": "assets/profile_pics/person_joe.jpeg",
+            "comment": "Cooked a leche flan this morning.",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "40"
+        },
+        {
+            "id": "5",
+            "profileImageUrl": "assets/profile_pics/person_katz.jpeg",
+            "comment": "Going to power through my day with this nutty smoothie to finish up Flutter apprentice for our readers!",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "50"
+        },
+        {
+            "id": "6",
+            "profileImageUrl": "assets/profile_pics/person_kevin.jpeg",
+            "comment": "Baking up some cake today",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "60"
+        },
+        {
+            "id": "7",
+            "profileImageUrl": "assets/profile_pics/person_sandra.jpeg",
+            "comment": "Kicking off the morning with mike's green smoothie recipe. Time to edit these chapters!",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "70"
+        },
+        {
+            "id": "8",
+            "profileImageUrl": "assets/profile_pics/person_manda.png",
+            "comment": "Not sure where I should travel to eat today.",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "80"
+        },
+        {
+            "id": "9",
+            "profileImageUrl": "assets/profile_pics/person_ray.jpeg",
+            "comment": "Hot off the press, cooking up more books this year!",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "90"
+        },
+        {
+            "id": "10",
+            "profileImageUrl": "assets/profile_pics/person_tiffani.jpeg",
+            "comment": "Hmmm....I love chocolates, candies, and smoothies",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "100"
+        }
+    ]
+}
